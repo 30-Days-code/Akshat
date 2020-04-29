@@ -56,21 +56,21 @@ int main()
 	else 
 	{
 		if(m == 2)
-			cout<<"Twenty";
+			cout<<" Twenty";
 		else if(m == 3)
-			cout<<"Thirty";
+			cout<<" Thirty";
 		else if(m == 4)
-			cout<<"Fourty";
+			cout<<" Fourty";
 		else if(m == 5)
-			cout<<"Fifty";
+			cout<<" Fifty";
 		else if(m == 6)
-			cout<<"Sixty";
+			cout<<" Sixty";
 		else if(m == 7)
-			cout<<"Seventy";
+			cout<<" Seventy";
 		else if(m == 8)
-			cout<<"Eighty";
+			cout<<" Eighty";
 		else if(m == 9)
-			cout<<"Ninety";
+			cout<<" Ninety";
 	
 		if(n == 1)
 			cout<<" One";
